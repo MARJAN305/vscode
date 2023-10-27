@@ -1,13 +1,16 @@
 h1 {
-    background-color: blanchedalmond;
-    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-    color: lightcoral
+    margin-left: 210px;
+    color: brown;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+    
 }
 
 p {
-    background-color: black;
+    background-color: rgb(233, 227, 227);
+    margin: 10px;
+    padding: 10px;
     font-style: calc();
-    color: limegreen
+    color: rgb(204, 58, 0)
 }
 
 a {
@@ -16,8 +19,11 @@ a {
 }
 
 li {
+    background-color: grey;
+    margin: 10px;
+    padding: 10px;
     font-style: oblique;
-    color: peachpuff
+    color: rgb(17, 222, 230)
 }
 
  {
@@ -26,6 +32,51 @@ li {
 }
 
 img {
-    width: 130px;
+    width: 100px;
     height: 100px;
+    border-radius: 50px;
+    border: 2px solid blue;
+    margin-left: 250px;
+    margin-right: 250px;
+    margin-top: 10px;
+
 }
+
+header p {
+    margin-right: 350px;
+    padding: 10px;
+}
+
+aside {
+    margin-right: 480px;
+    padding: 1px;
+}
+
+footer {
+    background: blue;
+}
+
+footer h2 {
+    margin: 10px;
+    padding: 10px;
+}
+
+footer a {
+    margin: 10px;
+    padding: 10px;
+}
+
+aside li {
+    color: rgb(180, 30, 30);
+    background-color: rgb(255, 255, 255);
+    
+}
+header {
+    height: 40vh;
+    background-color: rgb(100, 98, 98);
+}
+
+span{
+    background-color: rgb(100, 98, 98);
+    margin-left: 190px
+};
